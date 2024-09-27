@@ -2,9 +2,6 @@ plugins:
   chatbot_enabled:
     default: true
     client: true
-  chatbot_open_ai_token:
-    client: false
-    default: ''
   chatbot_permitted_in_private_messages:
     default: true
     client: true
